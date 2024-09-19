@@ -34,7 +34,6 @@ hr{
     width: 50%;
     height: 100%;
    object-fit: contain;
-
 }
 
 .flexContainer{
@@ -56,10 +55,12 @@ hr{
 @media (max-width: 375px){
     .Container{
         font-size: 12px;
+        padding: 50px;
+
     }
 }
 @media (min-width: 1440px){
     .Container{
-        display: none;
+        font-size: 15px;
     }
 }
