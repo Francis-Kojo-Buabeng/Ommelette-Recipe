@@ -52,13 +52,14 @@ hr{
      color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 500px){
+@media (max-width: 375px){
     .Container{
         font-size: 20px;
         padding: 50px;
 
     }
 }
+
 @media (min-width: 1440px){
     .Container{
         font-size: 15px;
