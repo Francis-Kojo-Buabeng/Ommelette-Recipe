@@ -45,6 +45,16 @@ hr{
 tr{
     padding: 10px;
 }
+#color{
+    color: hsl(0, 90%, 33%);
+}
+
+#table{
+    align-content: center;
+}
+table{
+    margin-top: 10px;
+}
 
 .attribution {
     font-size: 11px; 
